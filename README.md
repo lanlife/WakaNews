@@ -8,3 +8,4 @@ It automatically recommend news based on user activity logs
 Note
 Because the demo runs on Amazon free tier instance, it is not fully functioning in terms of model traning and news recommendation.
 
+It uses reactjs for frontend, node.js for backend and Tensorflow for machine to predict news, Mongodb for database
